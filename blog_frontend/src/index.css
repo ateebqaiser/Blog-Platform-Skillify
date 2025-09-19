@@ -1,3 +1,4 @@
+/*NavBar_css  */
 .navbar {
   background: #333;
   padding: 10px;
@@ -10,4 +11,18 @@
 }
 .navbar a:hover {
   text-decoration: underline;
+}
+
+/* Home_css */
+.home {
+  padding: 20px;
+}
+.post-card {
+  border-bottom: 1px solid #ccc;
+  margin-bottom: 15px;
+  padding-bottom: 10px;
+}
+.post-card h2 {
+  margin: 0;
+  color: #2a5d8f;
 }
